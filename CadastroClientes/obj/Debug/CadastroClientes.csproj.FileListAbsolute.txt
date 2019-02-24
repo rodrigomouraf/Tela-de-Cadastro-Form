@@ -1,0 +1,10 @@
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.FrmCadastroClientes.resources
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\rodri\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Clientes>
+    <Codigo>1</Codigo>
+    <Nome>Rodrigo</Nome>
+    <Fone>(41) 99877 - 2618</Fone>
+    <Email>rodrigomoura_rm@hotmail.com</Email>
+  </Clientes>
+</NewDataSet>
